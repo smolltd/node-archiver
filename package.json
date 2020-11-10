@@ -1,5 +1,5 @@
 {
-  "name": "archiver",
+  "name": "@smol/archiver",
   "version": "5.0.2",
   "description": "a streaming interface for archive generation",
   "homepage": "https://github.com/archiverjs/node-archiver",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/archiverjs/node-archiver.git"
+    "url": "git://github.com/smolltd/node-archiver.git"
   },
   "bugs": {
-    "url": "https://github.com/archiverjs/node-archiver/issues"
+    "url": "https://github.com/smolltd/node-archiver/issues"
   },
   "license": "MIT",
   "main": "index.js",
@@ -56,6 +56,6 @@
     "tar"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com"
   }
 }
